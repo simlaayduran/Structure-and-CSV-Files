@@ -1,4 +1,4 @@
-# Structure-and-CSV-Files-in-C
+# Structure-and-CSV-Files
 
 • CMD is a command that performs a specific operation.
 
